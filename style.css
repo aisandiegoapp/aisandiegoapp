@@ -18,8 +18,13 @@
 }
 #zero{	
 }
+li{
+	font-size: 14px;
+}
 
-
+.leftalign p{
+	text-align: left;
+}
 
 .back 
 {
@@ -56,8 +61,14 @@ a.ui-btn{
 	height: 80px;
 	width: 80px;
 	}
+	.contentimage{
+	display: block;
+	margin: 0 auto;
+	}
 .ui-content{
-	padding: 0px;}
+
+margin-top:-35px;
+}
 	
 .ui-block-b{
 	width: 144px;
@@ -71,7 +82,7 @@ a.ui-btn{
 	font-size:14px;
 	text-align: center;}
 .ui-content h2{
-	font-size:13px !important;
+	font-size:14px !important;
 	text-align: center;
 }
 .ui-content h1{
